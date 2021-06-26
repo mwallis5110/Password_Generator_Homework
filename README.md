@@ -46,11 +46,11 @@ Allows users to select which characters they would like to include in or leave o
 ![Lowercase prompt](images/Capture2.png)
 
 
-![Uppercase prompt](images/Capture3.png)
+![Uppercase prompt](/images/Capture3.png)
 
-![Special character prompt](images/Capture5.png)
+![Special character prompt](/images/Capture5.png)
 
-![Number prompt](images/Capture6.png)
+![Number prompt](/images/Capture6.png)
 
 4. Finished Password
 
